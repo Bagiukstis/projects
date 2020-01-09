@@ -1,0 +1,4 @@
+﻿  bhop.cpp
+c:\users\valdas pc\documents\almost working bhop\global.h(11): warning C4091: 'extern ': ignored on left of 'values' when no variable is declared
+c:\users\valdas pc\documents\almost working bhop\global.h(15): warning C4091: 'extern ': ignored on left of 'Matrix3x4_t' when no variable is declared
+  bhop.vcxproj -> C:\Users\Valdas PC\Documents\almost working bhop\Debug\bhop.exe
